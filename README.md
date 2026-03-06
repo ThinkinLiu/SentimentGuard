@@ -4,10 +4,13 @@
 
 # 企业舆情分析系统
 
-这是一个基于 [Next.js 16](https://nextjs.org) + [shadcn/ui](https://ui.shadcn.com) 的企业舆情分析应用。
+这是一个基于 [Next.js 16](https://nextjs.org) + [shadcn/ui](https://ui.shadcn.com) 的企业舆情分析应用
+
 体验地址：[https://rs5qqh7vxf.coze.site/](https://rs5qqh7vxf.coze.site/)
-基于扣子部署，扣子积分不多，请大家省着点用。
-有啥疑问或需求可以关注微信公众号【IT老五】留言（也可扫底部二维码关注），请详细描述，我看到会尽快回复。
+
+基于扣子部署，扣子积分不多，请大家省着点用
+
+有啥疑问或需求可以关注微信公众号【IT老五】留言（也可扫底部二维码关注），请详细描述，我看到会尽快回复
 
 ## 功能特点
 
