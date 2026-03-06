@@ -1,3 +1,7 @@
+<img width="750" height="440" alt="image" src="https://github.com/user-attachments/assets/f6edcfd4-fa13-4dfe-8721-75a59d9d974c" />
+<img width="750" height="425" alt="image" src="https://github.com/user-attachments/assets/63e4fa42-62b5-4c36-b9b7-25ecf87b4ae2" />
+<img width="750" height="481" alt="image" src="https://github.com/user-attachments/assets/2bdd3371-c5b3-4efd-a30c-d78712b91435" />
+
 # 企业舆情分析系统
 
 这是一个基于 [Next.js 16](https://nextjs.org) + [shadcn/ui](https://ui.shadcn.com) 的企业舆情分析应用。
